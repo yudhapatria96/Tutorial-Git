@@ -1,3 +1,4 @@
 1. ini text pertama kita
 2. ini sudah di edit
 3. ini edit kedua kalinya
+4. reset commit
