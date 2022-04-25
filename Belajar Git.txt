@@ -3,3 +3,4 @@
 3. ini edit kedua kalinya
 4. reset commit
 5. perubahaan setelah commit
+6. ini untuk conflict
